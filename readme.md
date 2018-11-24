@@ -4,4 +4,4 @@ npm init to create
 
 cat package.json to have a peak
 
-npm publish to publish your first package
+npm publish --access public to publish your first package
